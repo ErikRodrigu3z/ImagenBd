@@ -1,0 +1,10 @@
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\bin\Debug\ImagenBd.exe.config
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\bin\Debug\ImagenBd.exe
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\bin\Debug\ImagenBd.pdb
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\bin\Debug\ImagenBd.xml
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\obj\Debug\ImagenBd.Form1.resources
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\obj\Debug\ImagenBd.Resources.resources
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\obj\Debug\ImagenBd.vbproj.GenerateResource.Cache
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\obj\Debug\ImagenBd.exe
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\obj\Debug\ImagenBd.xml
+c:\users\erik\documents\visual studio 2012\Projects\ImagenBd\ImagenBd\obj\Debug\ImagenBd.pdb
